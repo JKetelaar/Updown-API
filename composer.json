@@ -1,0 +1,13 @@
+{
+    "name": "jketelaar/updown",
+    "description": "A useful PHP library for interacting with the Updown REST API, using cURL",
+    "license": "Apache-2.0",
+    "version": 1.0,
+    "authors": [
+        {
+            "name": "JKetelaar",
+            "email": "jeroen@ketelaar.me"
+        }
+    ],
+    "require": {}
+}
